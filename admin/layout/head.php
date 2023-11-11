@@ -11,14 +11,13 @@
     <!-- App favicon -->
     <link rel="shortcut icon" href="https://doctorly.themesbrand.website/assets/images/favicon.ico">
     <!-- App css -->
-<link href="../" id="bootstrap-dark" disabled rel="stylesheet" type="text/css" />
-<link href="/assets/css/bootstrap.min.css" id="bootstrap-light" rel="stylesheet" type="text/css" />
+    <link href="https://doctorly.themesbrand.website/assets/css/bootstrap-dark.min.css" id="bootstrap-dark" disabled rel="stylesheet" type="text/css" />
+<link href="https://doctorly.themesbrand.website/assets/css/bootstrap.min.css" id="bootstrap-light" rel="stylesheet" type="text/css" />
 <link href="https://doctorly.themesbrand.website/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
 <link href="https://doctorly.themesbrand.website/assets/css/app-rtl.min.css" id="app-rtl" disabled rel="stylesheet"  type="text/css" />
 <link href="https://doctorly.themesbrand.website/assets/css/app-dark.min.css" id="app-dark" disabled rel="stylesheet" type="text/css" />
 <link href="https://doctorly.themesbrand.website/assets/css/app.min.css" id="app-light" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" type="text/css" href="https://doctorly.themesbrand.website/assets/libs/toastr/toastr.min.css">
-<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
 </head>
 
